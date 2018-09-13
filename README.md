@@ -1,2 +1,2 @@
 # Text Bot
-# rudimentary response program
+# rudimentary response program - modified MagPie
