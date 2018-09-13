@@ -1,2 +1,2 @@
-# Text-Bot
-rudimentary response program
+# Text Bot
+# rudimentary response program
